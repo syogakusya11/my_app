@@ -91,5 +91,5 @@ class _SpotPageState extends State<SpotPage> {
       ),
     );
   }
-} // あいうえおかきくけこさしすせそ
+} // あいうえおかきくけこさしすせコメント追加したよ！
 
